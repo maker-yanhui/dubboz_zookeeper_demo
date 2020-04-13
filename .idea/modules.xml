@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dubboz_zookeeper_demo/consumer/consumer.iml" filepath="$PROJECT_DIR$/../dubboz_zookeeper_demo/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboz_zookeeper_demo.iml" filepath="$PROJECT_DIR$/dubboz_zookeeper_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubboz_zookeeper_demo/dz_model/dz_model.iml" filepath="$PROJECT_DIR$/../dubboz_zookeeper_demo/dz_model/dz_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubboz_zookeeper_demo/dz_service/dz_service.iml" filepath="$PROJECT_DIR$/../dubboz_zookeeper_demo/dz_service/dz_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubboz_zookeeper_demo/provider1/provider1.iml" filepath="$PROJECT_DIR$/../dubboz_zookeeper_demo/provider1/provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubboz_zookeeper_demo/provider2/provider2.iml" filepath="$PROJECT_DIR$/../dubboz_zookeeper_demo/provider2/provider2.iml" />
+    </modules>
+  </component>
+</project>
